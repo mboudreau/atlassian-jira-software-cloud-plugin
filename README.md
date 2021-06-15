@@ -1,6 +1,4 @@
-  
-
-# Introduction
+  # Introduction
 
 Atlassian has built and open-sourced a new Jenkins plugin that is
 intended to be used specifically for integrating Jenkins with [Jira
