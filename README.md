@@ -34,7 +34,6 @@ and the [Jenkins
 plugin](https://confluence.atlassian.com/adminjiracloud/integrate-jira-software-cloud-with-jenkins-972355471.html)
 via Atlassian documentation pages.
 
-  
 
 ------------------------------------------------------------------------
 
